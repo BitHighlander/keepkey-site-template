@@ -1,0 +1,44 @@
+{
+  "KeepKey": "KeepKey",
+  "keepkey": {
+    "keepkey": "KeepKey"
+  },
+  "Become_a_KeepKey_Affiliate": "Become a KeepKey Affiliate",
+  "Join_our_program": "(BETA) Join our program and start earning today!",
+  "Sign_Up_Now": "Sign Up Now",
+  "Login": "Login",
+  "View_Affiliate_Data": "View Affiliate Data",
+  "Logout": "Logout",
+  "Search_by_Order_ID": "Search by Order ID",
+  "FAQ": "FAQ",
+  "Support": "Support",
+  "Sign_up": "Sign Up",
+  "header": {
+    "become_affiliate": "Affiliate Portal",
+    "join_program": "(BETA) Join our program and start earning today!",
+    "sign_up_now": "Sign Up Now",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "affiliate": {
+    "view_data": "View Affiliate Data",
+    "search_order_id": "Search by Order ID"
+  },
+  "support": {
+    "faq": "FAQ",
+    "support": "Support"
+  },
+  "footer": {
+    "limited_warranty": "Limited Warranty",
+    "privacy_policy": "Privacy Policy",
+    "refund_policy": "Refund Policy",
+    "shipping_policy": "Shipping Policy",
+    "terms_of_use": "Terms of Use",
+    "security": "Security",
+    "discord": "Discord",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "copyright": "© {year} KeepKey"
+  }
+}

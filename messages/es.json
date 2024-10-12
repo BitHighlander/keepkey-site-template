@@ -1,0 +1,44 @@
+{
+  "KeepKey": "KeepKey",
+  "keepkey": {
+    "keepkey": "KeepKey"
+  },
+  "Become_a_KeepKey_Affiliate": "Conviértete en un afiliado de KeepKey",
+  "Join_our_program": "(BETA) ¡Únete a nuestro programa y comienza a ganar hoy!",
+  "Sign_Up_Now": "Regístrate Ahora",
+  "Login": "Iniciar Sesión",
+  "View_Affiliate_Data": "Ver Datos de Afiliado",
+  "Logout": "Cerrar Sesión",
+  "Search_by_Order_ID": "Buscar por ID de Pedido",
+  "FAQ": "Preguntas Frecuentes",
+  "Support": "Soporte",
+  "Sign_up": "Registrarse",
+  "header": {
+    "become_affiliate": "Portal de Afiliados",
+    "join_program": "(BETA) ¡Únete a nuestro programa y comienza a ganar hoy!",
+    "sign_up_now": "Regístrate Ahora",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión"
+  },
+  "affiliate": {
+    "view_data": "Ver Datos de Afiliado",
+    "search_order_id": "Buscar por ID de Pedido"
+  },
+  "support": {
+    "faq": "Preguntas Frecuentes",
+    "support": "Soporte"
+  },
+  "footer": {
+    "limited_warranty": "Garantía Limitada",
+    "privacy_policy": "Política de Privacidad",
+    "refund_policy": "Política de Reembolso",
+    "shipping_policy": "Política de Envío",
+    "terms_of_use": "Términos de Uso",
+    "security": "Seguridad",
+    "discord": "Discord",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "copyright": "© {year} KeepKey"
+  }
+}
