@@ -9,12 +9,12 @@ import Footer from './components/Footer';
 
 const TAG = ' | page.tsx | '
 
-export default function AffiliatePage() {
+export default function AffiliatePage({ locale }: any) {
     const t = useTranslations('keepkey');
 
     return (
         <Box bg="black" minH="100vh" color="white">
-            <Header />
+            <Header locale={locale} />
             <Footer />
         </Box>
     );

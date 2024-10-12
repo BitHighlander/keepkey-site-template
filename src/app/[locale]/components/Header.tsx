@@ -70,16 +70,16 @@ export const Header: FC<Props> = ({ locale }) => {
 
                 {/* Navigation Links for Desktop */}
                 <Flex display={{ base: 'none', md: 'flex' }} gap={6} align="center">
-                    <Link lang={locale} href="/features">
+                    <Link lang={locale} href={"/features" as any}>
                         <Text>{t('Features')}</Text>
                     </Link>
-                    <Link lang={locale} href="/pricing">
+                    <Link lang={locale} href={"/pricing" as any}>
                         <Text>{t('Pricing')}</Text>
                     </Link>
-                    <Link lang={locale} href="/about">
+                    <Link lang={locale} href={"/about" as any}>
                         <Text>{t('About')}</Text>
                     </Link>
-                    <Link lang={locale} href="/support">
+                    <Link lang={locale} href={"/support" as any}>
                         <Text>{t('Support')}</Text>
                     </Link>
                 </Flex>
@@ -147,16 +147,16 @@ export const Header: FC<Props> = ({ locale }) => {
                         </DrawerHeader>
                         <DrawerBody>
                             <VStack align="start" spacing={4}>
-                                <Link lang={locale} href="/features">
+                                <Link lang={locale} href={"/features" as any}>
                                     <Text>{t('Features')}</Text>
                                 </Link>
-                                <Link lang={locale} href="/pricing">
+                                <Link lang={locale} href={"/pricing" as any}>
                                     <Text>{t('Pricing')}</Text>
                                 </Link>
-                                <Link lang={locale} href="/about">
+                                <Link lang={locale} href={"/about" as any}>
                                     <Text>{t('About')}</Text>
                                 </Link>
-                                <Link lang={locale} href="/support">
+                                <Link lang={locale} href={"/support" as any}>
                                     <Text>{t('Support')}</Text>
                                 </Link>
                                 {/* Social Media Icons for Mobile */}
